@@ -1,0 +1,86 @@
+body
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 16pt;
+}
+
+.number
+{
+    font-size: 16pt;
+    font-family: "Roboto", sans-serif;
+    font-style: bold;
+    color:red;
+}
+
+.menu
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.toolbar
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+}
+
+a
+{
+    font-size: 16px;
+    color: red;
+    margin-left: 15px;
+}
+
+.path
+{
+    margin-left: 180px;
+}
+
+.apath
+{
+    font-size: 16px;
+    color: red;
+    margin-left: 0px;
+}
+
+.toolmenu
+{
+    justify-content: flex-start;
+    margin-left: 160px;
+}
+
+.search
+{
+    justify-content: end;
+}
+
+.opinion
+{
+    font-size: 10pt;
+}
+
+.price
+{
+    color: red;
+    font-family: "Roboto", sans-serif;
+    font-style: bold;
+}
+
+.shirt
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.podval
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    padding: 30pt;
+}
